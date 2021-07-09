@@ -2,31 +2,29 @@
 Curso para aprendizado e reforço html, css e JS
 
 
-## parte 1
+## Parte 1
 Introdução ao curso de html
 
-## parte 2
+## Parte 2
 Entendendo a semântica
 
-## parte 3
+## Parte 3
 Como usar textos e links em html
 
-## parte 4
+## Parte 4
 Como inserir imagens no seu site
 
-## parte 5
+## Parte 5
 Como organizr listas com html
 
-## parte 6
+## Parte 6
 Introdução e conceitos básicos de CSS3
 
-## parte 7
+## Parte 7
 Estilizando elementos, textos e listas
 
-## parte 8
+## Parte 8
 Dimensão e alinhamento
-
-
 
 Este curso é oferecido pela Digital One Inovation 
 https://web.digitalinnovation.one/track/html-web-developer?tab=path
