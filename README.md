@@ -1,5 +1,5 @@
 # curso-html5-dio
-Curso para aprendizado e reforço html, css e JS
+Curso para aprendizado e reforço HTML, CSS e JS
 
 
 ## Parte 1
@@ -15,7 +15,7 @@ Como usar textos e links em html
 Como inserir imagens no seu site
 
 ## Parte 5
-Como organizr listas com html
+Como organizar listas com html
 
 ## Parte 6
 Introdução e conceitos básicos de CSS3
