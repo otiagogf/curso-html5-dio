@@ -1,4 +1,3 @@
-# curso-html5-dio
 Curso para aprendizado e reforço HTML, CSS e JS
 
 
