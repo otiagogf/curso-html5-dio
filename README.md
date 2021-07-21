@@ -1,9 +1,26 @@
-Curso para aprendizado e reforço HTML, CSS e JS
+# Bootcamp para aprendizado e reforço HTML, CSS e JS
+
+### Módulo 1 - Introdução a criação de web sites com HTML5 + CSS3
+
+### Módulo 2 - Recriando a página inicial do instagram
+
+### Módulo 3 - Programação para internet com JavaScript
+
+### Módulo 4 - Introdução a programação com JavaScript
+
+### Módulo 5 - Recriando a interface do netflix
+
+### Módulo 6 - Construido pages com bootstrap
+
+### Módulo 7 - Fundamentos aritméticos em JavaScript
+
+### Módulo 8 - Recriando jogo da cobrinha em JavaScript
 
 
 
-Este curso é oferecido pela Digital One Inovation 
-https://web.digitalinnovation.one/track/html-web-developer?tab=path
+#### Este bootcamp é oferecido pela Digital One Inovation 
+#### https://web.digitalinnovation.one/track/html-web-developer?tab=path
 
 
-Anotações do conhecimento de cada aula: https://www.notion.so/Curso-DIO-html-css-js-6f58892c831748109359d8123db15527
+#### Anotações do conhecimento de cada aula 
+#### https://www.notion.so/Curso-DIO-html-css-js-6f58892c831748109359d8123db15527
