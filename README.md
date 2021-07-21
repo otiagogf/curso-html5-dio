@@ -1,7 +1,14 @@
 # Bootcamp para aprendizado e reforço HTML, CSS e JS
 
 ### Módulo 1 - Introdução a criação de web sites com HTML5 + CSS3
-
+* Introdução ao HTML
+* Semântica
+* Utilização de textos e links
+* Inserção de imagens no HTML
+* Organização de listas com HTML
+* Introdução ao CSS3
+* Estilização de elementos, listas e textos
+* Dimensão e alinhamento
 ### Módulo 2 - Recriando a página inicial do instagram
 
 ### Módulo 3 - Programação para internet com JavaScript
