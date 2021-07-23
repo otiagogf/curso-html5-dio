@@ -1,4 +1,6 @@
-# Bootcamp para aprendizado e reforço HTML, CSS e JS
+<h1 align="center"> Bootcamp HTML Web Developer </h1>
+
+<p align="center">Bootcamp da DIO, onde busco rever os conceitos básicos de HTML, CSS E JavaScript</p>
 
 ### Módulo 1 - Introdução a criação de web sites com HTML5 + CSS3
 * Introdução ao HTML
@@ -30,3 +32,5 @@
 
 #### Este bootcamp é oferecido pela Digital One Inovation 
 #### https://web.digitalinnovation.one/track/html-web-developer?tab=path
+
+<h4>Projeto em construção... 🚀</h4>
