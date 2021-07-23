@@ -9,6 +9,9 @@
 * Introdução ao CSS3
 * Estilização de elementos, listas e textos
 * Dimensão e alinhamento
+#### Anotações do conhecimento de cada aula do módulo
+#### https://www.notion.so/Curso-DIO-html-css-js-6f58892c831748109359d8123db15527
+
 ### Módulo 2 - Recriando a página inicial do instagram
 
 ### Módulo 3 - Programação para internet com JavaScript
@@ -29,5 +32,5 @@
 #### https://web.digitalinnovation.one/track/html-web-developer?tab=path
 
 
-#### Anotações do conhecimento de cada aula 
+#### Anotações do conhecimento de cada aula do módulo
 #### https://www.notion.so/Curso-DIO-html-css-js-6f58892c831748109359d8123db15527
