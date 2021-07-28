@@ -45,19 +45,19 @@ body {
     min-height: 34rem;
 }
 
-.grupo-login-ja-utilizado {
+.grupo {
     display: flex;
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
     background-color: #ffffff;
     width: 100%;
-    pad: 1.3rem 0;
+    padding: 1.3rem 0;
     border: 1px solid lightgray;
 }
 
-.grupo-login-ja-utilizado:nth-child(1) {
-    min-width: 19rem;
+.grupo:nth-child(1) {
+    min-height: 19rem;
 }
 
 .insta-logo {
@@ -96,7 +96,7 @@ body {
     color: #0095f6;
 }
 
-.obetenha-o-app {
+.obtenha-o-app {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -112,4 +112,56 @@ body {
     align-items: center;
     padding: 1rem;
 
+}
+
+.app-download {
+    height: 3rem;
+    width: 10rem;
+    background-size: cover;
+}
+
+.app-download:nth-child(1) {
+    background-image: url("/modulo-dois/assets/ios-botao.png");
+}
+
+.app-download:nth-child(2) {
+    background-image: url("/modulo-dois/assets/play-store-botao.png");
+}
+
+.footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+    text-align: center;
+}
+
+/* media queries */
+
+
+@media (max-width: 1024px) {
+    .insta-pai {
+        width: 90%;
+    }
+}
+
+@media (max-width: 650px) {
+    body {
+        background-color: #ffffff;
+    }
+
+    .insta-pai {
+        width: 90%;
+    }
+
+    .insta-fone {
+        display: none;
+    }
+
+    .insta-continue {
+        width: 100%;
+    }
+    
+    .grupo {
+        border: 1px solid transparent;
+    }
 }
