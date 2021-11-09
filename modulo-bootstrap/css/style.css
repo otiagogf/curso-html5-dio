@@ -5,11 +5,23 @@ body {
     background-color: #688a08;
 }
 
+.margin { 
+    padding-bottom: 50px;  
+    padding-top: 10px; 
+}
+
 .quem-somos {
     background-color: #8181F7;
     color: white;
 }
 
-.margin { 
-    padding-bottom: 50px;   
+.parceiros {
+    background-color: #58FAFA;
+    color: white;
+}
+
+
+.bg-footer {
+    background-color: black;
+    color: white;
 }
